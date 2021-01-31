@@ -261,27 +261,3 @@ Premiere, tienes el vídeo listo y a cierta hora se va a publicar. Puedes poner 
 6. Start Again.
 
 Cada 6 o 5 segundos hay algo nuevo imagen en pantalla. Eso mantiene el cerebro activo y causa más retención.
-
-## Examen
-
-Una vez que identificas patrones de buen gusto, ¿qué debes hacer?:c
-¿Cuáles son los tipos de canales de Youtube?:a
-¿Quiénes son los que crean un canal de marca personal?:b
-¿En qué momento sabes que estás creando buen gusto?:b
-El buen gusto en este proceso es:c
-¿A partir de cuántos suscriptores puedes usar los YouTube Stories?:c
-Los canales de YouTube de marcas logran tener más impacto que los creadores:d
-¿Para qué sirve el feature de comunidad?:b
-¿Tu super sentido depende 100% de tu habilidad?:c
-Cuando haces tu lista de “qué te define”, ¿cómo deben ser tus puntos?:b
-Cuando haces tu lista de “qué te define”, ¿cómo deben ser tus puntos?:a
-¿Cuál no es una característica de Youtube Live?:a
-Para limpiar tu paladar debes:b
-¿Qué artista usó Premiere para lanzar su videoclip?:a
-¿Qué es hacer un Call to Action (CTA) o llamado a la acción?:a
-No es posible ver el video en vertical desde la app de Youtube:a
-¿Cuál de las siguientes no es una ventaja de crear en equipo?:d
-¿Por qué seguimos usando los suscriptores para referirnos al tamaño de un canal?:c
-¿Cómo se llama el libro del que se desprende la teoría de Growth hacking?:b
-¿En qué categoría entra el canal de Luisito Comunica?:b
-¿Cuál es el segundo buscador más importante?:b
